@@ -1,6 +1,6 @@
 # Етика и Пристрасност во Вештачката Интелигенција
 
-![Ethics and Bias in AI](./images/Ethics.png)
+![Ethics and Bias in AI](https://github.com/AI-now-mk/Ethics-and-Bias-in-AI/blob/main/Ethics.png)
 
 Овој репозиториум ја содржи првата национална студија за етичките предизвици и пристрасностите поврзани со примената на вештачката интелигенција (ВИ) во Северна Македонија.
 
